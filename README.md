@@ -41,4 +41,4 @@ seed phrase or private key into any tool you do not fully trust.
 
 ## License
 
-MIT — see `LICENSE`.
+BSD-3-Clause — see `LICENSE`.
